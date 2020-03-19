@@ -1,0 +1,8 @@
+name: EastereggReforged
+author: Yukami
+version: 1.0
+main: Yukami.EasterEggReforged.Main
+
+commands:
+  easteregg:
+    description: Adds the block to the Easteregg List and gives a reward for players who click it

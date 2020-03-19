@@ -1,0 +1,3 @@
+rewardPerEgg: 5000
+rewardOnComplete: 50000
+moneyCommand: balance add %p %m
